@@ -10,6 +10,7 @@
 1. 在cmd里面
    java -jar MySQLDGTool.jar
 2. 填写相应位置，点击“product”，即可在jar包目录下生成文档。
+
 # 注意事项
 1. jar包的目录最好为英文
 2. \_NULL\_ 表示“所有”、“任意”
